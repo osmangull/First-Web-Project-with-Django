@@ -1,0 +1,73 @@
+h1 a {
+    color: red;
+    font-family: 'Lobster';
+}
+
+p{
+
+	font-size: 16;
+	color: blue;
+	font-family: 'Comic Sans MS';
+}
+
+body{
+	padding-left: 20;
+}
+
+
+.page-header {
+    background-color: #ff9400;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
+    color: #ffffff;
+    font-size: 36pt;
+    text-decoration: none;
+}
+
+.content {
+	margin-top: 40px;
+    margin-left: 40px;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Lobster', cursive;
+}
+
+.date {
+    color: #828282;
+    visibility: hidden;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.post h1 a, .post h1 a:visited {
+    color: red;
+}
+.post h3
+{
+	padding-left: 40;
+	font-size: 20px;
+	color: green;
+	font-style: italic;
+	font-family: 'Times New Roman'
+}
